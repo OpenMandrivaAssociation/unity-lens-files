@@ -1,6 +1,6 @@
 Summary:	Files lens for the Unity Desktop
 Name:		unity-lens-files
-Version:	0.6.12
+Version:	5.10.0
 Release:	1
 License:	GPLv3
 Url:		https://launchpad.net/unity-lens-files
